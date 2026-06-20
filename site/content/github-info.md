@@ -17,7 +17,8 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- **GitHub Blog**: *GitHub Copilot CLI for Beginners: Overview of common slash commands* — a quick way to learn the terminal commands that help you ask, edit, and act from the CLI.
-- **GitHub Blog**: *What are git worktrees, and why should I use them?* — a practical primer on working across multiple branches without extra clones.
-- **GitHub Changelog**: *Copilot code review: AGENTS.md support and UI improvements* — repository-level AGENTS.md files now help guide review behavior, and draft PR review requests are easier to send.
-- **GitHub Changelog**: *AI credits consumed per user now in the Copilot usage metrics API* — admins can now track per-user daily AI credit consumption in the API.
+- **GitHub Blog**: *Getting more from each token: How Copilot improves context handling and model routing* — useful for better prompts when Copilot seems to miss context.
+- **GitHub Blog**: *What are git worktrees, and why should I use them?* — a practical way to work on multiple branches without extra clones.
+- **GitHub Changelog**: *Copilot code review: AGENTS.md support and UI improvements* — add AGENTS.md files to guide review behavior and make draft PR review requests easier to send.
+- **GitHub Changelog**: *AI credits consumed per user now in the Copilot usage metrics API* — admins can track daily AI credit use per user in the API.
+- **Awesome Copilot workflows**: *relevance-check* and *weekly-comment-sync* are good examples of automating repeatable repository chores.
