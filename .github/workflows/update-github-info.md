@@ -11,7 +11,7 @@ permissions:
 tools:
   edit:
   web-fetch:
-sources:
+resources:
   - name: awesome-copilot-workflows
     url: https://awesome-copilot.github.com/workflows/
 safe-outputs:
