@@ -11,6 +11,9 @@ permissions:
 tools:
   edit:
   web-fetch:
+sources:
+  - name: awesome-copilot-workflows
+    url: https://awesome-copilot.github.com/workflows/
 safe-outputs:
   create-pull-request:
     title-prefix: '[mona] '
@@ -33,7 +36,7 @@ Use these sources:
 - GitHub Changelog: https://github.blog/changelog/
 - Awesome Copilot workflows: https://awesome-copilot.github.com/workflows/
 
-Web fetch the Awesome Copilot workflows page at https://awesome-copilot.github.com/workflows/ when looking for new workflow ideas or examples.
+Use the `web-fetch` tool to fetch https://awesome-copilot.github.com/workflows/ and add its findings to the `sources` list when looking for new workflow ideas or examples.
 
 Update `site/content/github-info.md` with concise, practical updates for readers.
 When a change comes from the GitHub Blog or GitHub Changelog, mention the source clearly in the content.
