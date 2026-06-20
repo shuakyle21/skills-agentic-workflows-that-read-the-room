@@ -17,4 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- **GitHub CLI v2.x**: Enhanced support for managing pull requests and issues with improved performance and new filtering options.
+- **GitHub Blog**: *GitHub Copilot CLI for Beginners: Overview of common slash commands* — a quick way to learn the terminal commands that help you ask, edit, and act from the CLI.
+- **GitHub Blog**: *What are git worktrees, and why should I use them?* — a practical primer on working across multiple branches without extra clones.
+- **GitHub Changelog**: *Copilot code review: AGENTS.md support and UI improvements* — repository-level AGENTS.md files now help guide review behavior, and draft PR review requests are easier to send.
+- **GitHub Changelog**: *AI credits consumed per user now in the Copilot usage metrics API* — admins can now track per-user daily AI credit consumption in the API.
