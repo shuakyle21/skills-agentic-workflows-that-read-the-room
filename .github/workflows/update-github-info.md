@@ -12,8 +12,7 @@ tools:
   edit:
   web-fetch:
 resources:
-  - name: awesome-copilot-workflows
-    url: https://awesome-copilot.github.com/workflows/
+  - https://awesome-copilot.github.com/workflows/
 safe-outputs:
   create-pull-request:
     title-prefix: '[mona] '
